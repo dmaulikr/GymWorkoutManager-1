@@ -8,7 +8,7 @@ pod 'ScrollableGraphView'
 pod 'JVFloatLabeledTextField'
 pod 'AVOSCloud' 
 pod 'AVOSCloudIM'
-pod 'CVCalendar', '~> 1.2.9'
+pod 'CVCalendar', '~> 1.4.0'
 
 target 'GymWorkoutManager' do
 
